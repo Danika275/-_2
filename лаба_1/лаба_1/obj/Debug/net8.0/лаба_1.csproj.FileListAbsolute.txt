@@ -1,0 +1,14 @@
+C:\Users\darai\RiderProjects\лаба_1\лаба_1\bin\Debug\net8.0\лаба_1.exe
+C:\Users\darai\RiderProjects\лаба_1\лаба_1\bin\Debug\net8.0\лаба_1.deps.json
+C:\Users\darai\RiderProjects\лаба_1\лаба_1\bin\Debug\net8.0\лаба_1.runtimeconfig.json
+C:\Users\darai\RiderProjects\лаба_1\лаба_1\bin\Debug\net8.0\лаба_1.dll
+C:\Users\darai\RiderProjects\лаба_1\лаба_1\bin\Debug\net8.0\лаба_1.pdb
+C:\Users\darai\RiderProjects\лаба_1\лаба_1\obj\Debug\net8.0\лаба_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darai\RiderProjects\лаба_1\лаба_1\obj\Debug\net8.0\лаба_1.AssemblyInfoInputs.cache
+C:\Users\darai\RiderProjects\лаба_1\лаба_1\obj\Debug\net8.0\лаба_1.AssemblyInfo.cs
+C:\Users\darai\RiderProjects\лаба_1\лаба_1\obj\Debug\net8.0\лаба_1.csproj.CoreCompileInputs.cache
+C:\Users\darai\RiderProjects\лаба_1\лаба_1\obj\Debug\net8.0\лаба_1.dll
+C:\Users\darai\RiderProjects\лаба_1\лаба_1\obj\Debug\net8.0\refint\лаба_1.dll
+C:\Users\darai\RiderProjects\лаба_1\лаба_1\obj\Debug\net8.0\лаба_1.pdb
+C:\Users\darai\RiderProjects\лаба_1\лаба_1\obj\Debug\net8.0\лаба_1.genruntimeconfig.cache
+C:\Users\darai\RiderProjects\лаба_1\лаба_1\obj\Debug\net8.0\ref\лаба_1.dll
