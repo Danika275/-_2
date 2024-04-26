@@ -1,0 +1,14 @@
+C:\Users\darai\OneDrive\Документы\622\Практика_2_РКИС\2_лаба\лаба_2\лаба_2.4\bin\Debug\net8.0\лаба_2.4.exe
+C:\Users\darai\OneDrive\Документы\622\Практика_2_РКИС\2_лаба\лаба_2\лаба_2.4\bin\Debug\net8.0\лаба_2.4.deps.json
+C:\Users\darai\OneDrive\Документы\622\Практика_2_РКИС\2_лаба\лаба_2\лаба_2.4\bin\Debug\net8.0\лаба_2.4.runtimeconfig.json
+C:\Users\darai\OneDrive\Документы\622\Практика_2_РКИС\2_лаба\лаба_2\лаба_2.4\bin\Debug\net8.0\лаба_2.4.dll
+C:\Users\darai\OneDrive\Документы\622\Практика_2_РКИС\2_лаба\лаба_2\лаба_2.4\bin\Debug\net8.0\лаба_2.4.pdb
+C:\Users\darai\OneDrive\Документы\622\Практика_2_РКИС\2_лаба\лаба_2\лаба_2.4\obj\Debug\net8.0\лаба_2.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darai\OneDrive\Документы\622\Практика_2_РКИС\2_лаба\лаба_2\лаба_2.4\obj\Debug\net8.0\лаба_2.4.AssemblyInfoInputs.cache
+C:\Users\darai\OneDrive\Документы\622\Практика_2_РКИС\2_лаба\лаба_2\лаба_2.4\obj\Debug\net8.0\лаба_2.4.AssemblyInfo.cs
+C:\Users\darai\OneDrive\Документы\622\Практика_2_РКИС\2_лаба\лаба_2\лаба_2.4\obj\Debug\net8.0\лаба_2.4.csproj.CoreCompileInputs.cache
+C:\Users\darai\OneDrive\Документы\622\Практика_2_РКИС\2_лаба\лаба_2\лаба_2.4\obj\Debug\net8.0\лаба_2.4.dll
+C:\Users\darai\OneDrive\Документы\622\Практика_2_РКИС\2_лаба\лаба_2\лаба_2.4\obj\Debug\net8.0\refint\лаба_2.4.dll
+C:\Users\darai\OneDrive\Документы\622\Практика_2_РКИС\2_лаба\лаба_2\лаба_2.4\obj\Debug\net8.0\лаба_2.4.pdb
+C:\Users\darai\OneDrive\Документы\622\Практика_2_РКИС\2_лаба\лаба_2\лаба_2.4\obj\Debug\net8.0\лаба_2.4.genruntimeconfig.cache
+C:\Users\darai\OneDrive\Документы\622\Практика_2_РКИС\2_лаба\лаба_2\лаба_2.4\obj\Debug\net8.0\ref\лаба_2.4.dll
